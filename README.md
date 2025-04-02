@@ -15,7 +15,6 @@
 
 ## 📌 Pinned Projects
 🔹 [**Video Chat App**](https://github.com/Saurabhtcet/video-chat-app) - Real-time video chat using **WebRTC & Socket.io**.
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Saurabhtcet&show_icons=true&theme=radical" height="165">
