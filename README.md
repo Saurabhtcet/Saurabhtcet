@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/86622eb1-c5d5-41f0-8261-63987f33bfae)# Hi there! I'm Saurabhkumar Yadav 👋
+# Hi there! I'm Saurabhkumar Yadav 👋
 
 ## 🚀 About Me
 - 🎓 Software Developer with a passion for building innovative solutions.
@@ -18,11 +18,10 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Saurabhtcet&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Saurabhtcet&layout=compact&theme=radical" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saurabhtcet&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saurabhtcet&show_icons=true&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabhtcet&layout=compact&theme=radical" height="165">
+  <img src="https://streak-stats.demolab.com/?user=Saurabhtcet&theme=radical" height="165">
 </p>
-
 
 ## 🌟 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabhkumar-yadav-b20399211)
