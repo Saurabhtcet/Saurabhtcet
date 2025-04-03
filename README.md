@@ -8,7 +8,6 @@
 - ⚡ Fun fact: **I love problem-solving and automating repetitive tasks!**
 
 ## 🛠️ Tech Stack
-<!-- Add icons for tech stack (optional) -->
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -17,12 +16,11 @@
 🔹 [**Video Chat App**](https://github.com/Saurabhtcet/video-chat-app) - Real-time video chat using **WebRTC & Socket.io**.
 
 ## 📊 GitHub Stats
-<p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=Saurabhtcet&color=blue)
- <img src="https://github-readme-stats.vercel.app/api?username=Saurabhtcet&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabhtcet&layout=compact&theme=radical" height="165">
-  <img src="https://streak-stats.demolab.com/?user=Saurabhtcet&theme=radical" height="165">
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=Saurabhtcet&style=flat-square&color=blue)
+
+![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saurabhtcet&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabhtcet&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Saurabhtcet&theme=radical)
 
 ## 🌟 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabhkumar-yadav-b20399211)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabhkumar-yadav-b20399211)
