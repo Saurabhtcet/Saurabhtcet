@@ -22,5 +22,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabhtcet&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Saurabhtcet&theme=radical)
 
----## 🌟 Let's Connect
----[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabhkumar-yadav-b20399211)
+
